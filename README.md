@@ -35,6 +35,7 @@ Key elements include:
 * Forest-cover change compared with the baseline year
 * Historical trend visualization
 * Assessment-year information
+<img width="1337" height="911" alt="image" src="https://github.com/user-attachments/assets/5d5a8bdd-70d7-4684-bc79-0070af07a3f3" />
 
 ### 2. State Comparison
 
@@ -45,6 +46,7 @@ Provides a **2023 State and Union Territory comparison** using:
 * Forest-cover percentage
 
 This page allows users to explore differences in forest resources across regions.
+<img width="1345" height="913" alt="image" src="https://github.com/user-attachments/assets/0b158e6a-6530-4591-9f49-2f091d90aca1" />
 
 ### 3. Forest Density Composition
 
@@ -57,11 +59,14 @@ Analyzes the composition of forest-related areas in 2023 using:
 
 The page also provides state-wise comparisons of these categories.
 
+<img width="1336" height="912" alt="image" src="https://github.com/user-attachments/assets/ea6564f0-3e7f-4f34-aedf-4714e8d973e9" />
+
 ---
 
 ## 🛠️ Tools & Technologies
 
 * **Microsoft Power BI**
+* Pandas
 * Data Visualization
 * KPI Cards
 * Trend Analysis
